@@ -3451,3 +3451,557 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.12.20-16.48.38:533][389]PIE: Server logged in
 [2021.12.20-16.48.38:534][389]PIE: Play in editor total start time 0,353 seconds.
 [2021.12.20-16.48.38:614][390]LogRenderer: Reallocating scene render targets to support 1032x596 Format 10 NumSamples 1 (Frame:1).
+[2021.12.20-16.49.18:066][829]LogSlate: Window 'SnakeGames Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.20-16.49.18:077][829]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2021.12.20-16.49.18:078][829]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-16.49.18:078][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-16.49.18:094][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.20-16.49.18:107][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-16.49.18:162][829]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.20-16.49.18:162][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.20-16.49.18:164][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.20-16.49.18:173][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.12.20-16.49.18:202][830]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.12.20-16.49.19:488][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PLayer" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Player/BP_PLayer.uasset" SILENT=true
+[2021.12.20-16.49.19:504][900]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_PLayer68DC397248EDEA9A460817A25230C38C.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Player/BP_PLayer.uasset'
+[2021.12.20-16.49.19:520][900]AssetCheck: New page: Asset Save: BP_Player
+[2021.12.20-16.49.19:520][900]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PLayer.BP_Player
+[2021.12.20-16.49.32:154][412]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.20-16.49.32:175][412]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.20-16.49.32:212][412]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.20-16.49.35:930][631]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Board
+[2021.12.20-16.49.35:935][631]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.20-16.49.36:426][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-16.49.38:229][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-16.49.38:234][731]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_BoardE746D4E8491F43465285229397A5473E.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-16.49.38:253][731]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-16.49.38:254][731]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-16.50.03:714][240]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-16.50.03:803][240]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2021.12.20-16.50.04:770][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-16.50.04:776][295]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board4572E602472B883E05EF00905FC5B0BE.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-16.50.04:798][295]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-16.50.04:798][295]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-16.50.09:317][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-16.50.09:322][565]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board0B600EC94929624E80DD18A9469C953E.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-16.50.09:346][565]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-16.50.09:346][565]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-16.56.49:971][940]LogEditorTransaction: Undo Remove Variable
+[2021.12.20-16.56.52:700][  0]LogSlate: Window 'Delete Variable' being destroyed
+[2021.12.20-16.57.35:009][438]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-16.57.35:097][438]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2021.12.20-16.57.35:529][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-16.57.35:537][461]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_BoardEA1950B14FD477CF2C6340A4FC9975D6.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-16.57.35:555][461]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-16.57.35:555][461]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-16.57.45:406][ 34]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-16.57.45:486][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2021.12.20-16.57.46:078][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-16.57.46:086][ 65]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board1A73B78D4EF6F554946CD9977E90D1A2.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-16.57.46:104][ 65]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-16.57.46:104][ 65]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-16.59.04:159][787]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2021.12.20-16.59.04:161][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/Autosaves/Game/Maps/NewMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.20-16.59.04:171][787]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap_Auto4821F5D31471D7FB9C0C873A9A63A2A02.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/Autosaves/Game/Maps/NewMap_Auto4.umap'
+[2021.12.20-16.59.04:172][787]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.086
+[2021.12.20-16.59.04:172][787]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2021.12.20-16.59.04:459][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Table/BP_Board] ([4] browsable assets)...
+[2021.12.20-16.59.04:461][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Table/BP_Board]
+[2021.12.20-16.59.04:461][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/Autosaves/Game/Table/BP_Board_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.12.20-16.59.04:486][787]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board_Auto478F550B2413C1D796D4722A5ACDE44B3.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/Autosaves/Game/Table/BP_Board_Auto4.uasset'
+[2021.12.20-16.59.04:488][787]LogFileHelpers: Auto-saving content packages took 0.316
+[2021.12.20-17.00.07:431][172]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.00.07:510][172]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2021.12.20-17.00.08:030][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.00.08:037][201]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board0DBCCA1447BC455969BCC8B8F031B927.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.00.08:057][201]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.00.08:057][201]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.03.10:968][475]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.03.11:053][475]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2021.12.20-17.03.11:422][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.03.11:455][494]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_BoardB1122D0C4E6C6461AE19EDA1E5FA8697.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.03.11:472][494]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.03.11:472][494]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.03.15:053][690]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.03.15:138][690]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2021.12.20-17.03.15:973][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.03.15:985][737]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board4C104F294E636871ABA5E0B881903FBB.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.03.16:005][737]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.03.16:005][737]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.03.18:286][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.03.18:301][872]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board132356F84F615F06F2FCB99F739C7746.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.03.18:330][872]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.03.18:330][872]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.06.22:729][302]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.06.22:819][302]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2021.12.20-17.06.23:131][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.06.23:145][318]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board6E1C78E44F760F27705ACDBC7DE14671.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.06.23:169][318]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.06.23:169][318]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.06.23:795][354]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.20-17.06.23:799][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.20-17.06.23:799][354]PIE: New page: PIE session: NewMap (20-12-2021 11:06:23)
+[2021.12.20-17.06.23:799][354]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2021.12.20-17.06.23:802][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002369s)
+[2021.12.20-17.06.23:803][354]LogAIModule: Creating AISystem for world NewMap
+[2021.12.20-17.06.23:803][354]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2021.12.20-17.06.23:803][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004112s)
+[2021.12.20-17.06.23:856][354]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.12.20-17.06.23:858][354]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.12.20-17.06.23:858][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.20-17.06.23:858][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.20-17.06.23:858][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.20-17.06.23:858][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.20-17.06.23:858][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.20-17.06.23:858][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.20-17.06.23:858][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.20-17.06.23:858][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.20-17.06.23:858][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.20-17.06.23:858][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.20-17.06.23:858][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.20-17.06.23:858][354]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.20-17.06.23:860][354]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.20-17.06.23:860][354]LogAudioMixer: Display: 1: FrontRight
+[2021.12.20-17.06.23:957][354]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.20-17.06.23:958][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.20-17.06.23:958][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.20-17.06.23:958][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.20-17.06.23:958][354]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.20-17.06.23:958][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.20-17.06.23:958][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.20-17.06.23:959][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.20-17.06.23:959][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.20-17.06.23:959][354]LogInit: FAudioDevice initialized.
+[2021.12.20-17.06.23:960][354]LogAudio: Display: Audio Device (ID: 35) registered with world 'NewMap'.
+[2021.12.20-17.06.24:021][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.20-17.06.24:022][354]LogLoad: Game class is 'GM_Snakes_C'
+[2021.12.20-17.06.24:025][354]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.12.20-14.06.24
+[2021.12.20-17.06.24:026][354]LogWorld: Bringing up level for play took: 0.001490
+[2021.12.20-17.06.24:026][354]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.12.20-17.06.24:030][354]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.20-17.06.24:033][354]PIE: Server logged in
+[2021.12.20-17.06.24:035][354]PIE: Play in editor total start time 0,236 seconds.
+[2021.12.20-17.06.24:090][355]LogRenderer: Reallocating scene render targets to support 1032x604 Format 10 NumSamples 1 (Frame:1).
+[2021.12.20-17.06.26:242][473]LogSlate: Window 'SnakeGames Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.20-17.06.26:251][473]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2021.12.20-17.06.26:252][473]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-17.06.26:252][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-17.06.26:268][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.20-17.06.26:283][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-17.06.26:350][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.20-17.06.26:350][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.20-17.06.26:351][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.20-17.06.26:382][473]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2021.12.20-17.06.26:414][474]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.12.20-17.08.46:249][206]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.08.46:671][206]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2021.12.20-17.08.46:720][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.08.46:737][206]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board2E5A8E96445AA6EA97A46CA5600FEA41.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.08.46:759][206]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.08.46:759][206]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.08.58:431][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.08.58:444][309]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board5EC51B2940B5CE31153EA2B2A166B2D7.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.08.58:467][309]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.08.58:467][309]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.09.00:263][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.20-17.09.00:314][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.12.20-17.09.00:364][412]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMapAD7876054CBC7B9FB21AFABFC0BB939E.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap'
+[2021.12.20-17.09.00:384][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2021.12.20-17.09.00:401][412]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap_BuiltData511406534836CDEE6D8709A105B757FB.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset'
+[2021.12.20-17.09.00:419][412]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.20-17.09.00:420][412]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2021.12.20-17.09.00:420][412]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2021.12.20-17.09.04:513][651]Cmd: DELETE
+[2021.12.20-17.09.04:513][651]Cmd: ACTOR DELETE
+[2021.12.20-17.09.04:515][651]LogEditorActor: Deleted Actor: BP_Tile_C
+[2021.12.20-17.09.04:569][651]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.12.20-17.09.04:571][651]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.12.20-17.09.40:886][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.09.40:901][944]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board7E4B11EA43F3BB1B36669994413B09CA.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.09.40:923][944]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.09.40:923][944]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.16.46:246][611]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\jesus\Descargas\hexagon-no-textures\source\untitled.fbx)
+[2021.12.20-17.16.46:436][611]LogFbx: Loading FBX Scene from D:\jesus\Descargas\hexagon-no-textures\source\untitled.fbx
+[2021.12.20-17.16.46:486][611]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.16.51:064][611]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.20-17.16.51:296][611]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.16.51:341][611]LogStaticMesh: Building static mesh untitled_Cylinder...
+[2021.12.20-17.16.51:447][611]LogStaticMesh: Built static mesh [0.10s] /Game/Table/untitled_Cylinder.untitled_Cylinder
+[2021.12.20-17.16.51:533][611]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.16.51:534][611]LogStaticMesh: Building static mesh untitled_Cylinder_001...
+[2021.12.20-17.16.51:537][611]LogStaticMesh: Built static mesh [0.00s] /Game/Table/untitled_Cylinder_001.untitled_Cylinder_001
+[2021.12.20-17.16.51:575][611]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.16.53:475][690]LogSlate: Window 'Message Log' being destroyed
+[2021.12.20-17.16.53:481][690]LogSlate: Window 'Message Log' being destroyed
+[2021.12.20-17.16.57:033][886]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.12.20-17.17.00:037][886]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.20-17.17.00:161][886]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2021.12.20-17.17.10:035][475]LogContentBrowser: Attempting asset rename: untitled_Cylinder -> SM_Hexagon
+[2021.12.20-17.17.10:112][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/SM_Hexagon" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset" SILENT=true
+[2021.12.20-17.17.10:134][475]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/SM_Hexagon0E98C9AF476B821B3CBCF99615E0A79B.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset'
+[2021.12.20-17.17.10:276][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.12.20-17.17.10:332][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.12.20-17.17.10:376][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.12.20-17.17.10:427][475]AssetCheck: New page: Asset Save: SM_Hexagon
+[2021.12.20-17.17.10:428][475]LogContentValidation: Display: Validating StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.17.12:327][576]LogActorFactory: Actor Factory created SM_Hexagon
+[2021.12.20-17.17.12:665][596]LogActorFactory: Actor Factory created SM_Hexagon
+[2021.12.20-17.17.15:746][778]Cmd: TRANSACTION UNDO
+[2021.12.20-17.17.15:747][778]LogEditorTransaction: Undo Create Actors
+[2021.12.20-17.17.26:125][335]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.17.26:241][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.12.20-17.17.26:559][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.17.26:575][347]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board694F1D274D4B35585DAC3DB1F5FB8DD9.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.17.26:597][347]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.17.26:597][347]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.17.27:509][399]LogEditorViewport: Clicking on Actor (context menu): BP_Board_C (BP_Board)
+[2021.12.20-17.17.29:161][493]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (NODE_AddStaticMeshComponent-1_6)
+[2021.12.20-17.17.38:025][ 10]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-17.17.38:025][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-17.17.48:287][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.17.48:303][609]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board5382FE034A67A47BAC7620AAFD9685E6.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.17.48:321][609]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.17.48:321][609]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.17.52:782][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.17.52:801][859]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board66268ED6461C4AE33826759E46F8CB9D.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.17.52:818][859]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.17.52:818][859]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.17.54:532][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PLayer" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Player/BP_PLayer.uasset" SILENT=true
+[2021.12.20-17.17.54:545][956]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_PLayerD125005147BD4C0316B4899761769503.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Player/BP_PLayer.uasset'
+[2021.12.20-17.17.54:565][956]AssetCheck: New page: Asset Save: BP_Player
+[2021.12.20-17.17.54:565][956]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PLayer.BP_Player
+[2021.12.20-17.18.18:368][709]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.18.18:556][709]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2021.12.20-17.18.18:800][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.18.18:817][718]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board1842548C47E81A198822D2A398D1DECE.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.18.18:842][718]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.18.18:843][718]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.18.23:691][997]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (NODE_AddStaticMeshComponent-1_12)
+[2021.12.20-17.18.24:053][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.20-17.18.29:600][341]BlueprintLog: New page: Compile BP_Player
+[2021.12.20-17.18.29:725][341]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2021.12.20-17.18.30:080][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PLayer" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Player/BP_PLayer.uasset" SILENT=true
+[2021.12.20-17.18.30:097][356]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_PLayerB9F4B3744006EA3C7A4253A833453D15.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Player/BP_PLayer.uasset'
+[2021.12.20-17.18.30:112][356]AssetCheck: New page: Asset Save: BP_Player
+[2021.12.20-17.18.30:113][356]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PLayer.BP_Player
+[2021.12.20-17.19.35:196][987]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.19.35:326][987]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2021.12.20-17.19.35:670][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.19.35:688][  1]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board5247904B4EFF8E7C819BBC969C092E16.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.19.35:706][  1]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.19.35:706][  1]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.20.04:290][573]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.20.04:398][573]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2021.12.20-17.20.04:742][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.20.04:759][587]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board21EAB09C4F4BD891A00F009F952AEF35.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.20.04:778][587]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.20.04:778][587]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.20.08:267][787]Cmd: DELETE
+[2021.12.20-17.20.08:267][787]Cmd: ACTOR DELETE
+[2021.12.20-17.20.08:271][787]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.12.20-17.20.08:333][787]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2021.12.20-17.20.08:335][787]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.12.20-17.20.09:991][877]Cmd: TRANSACTION UNDO
+[2021.12.20-17.20.09:991][877]LogEditorTransaction: Undo Delete Actors
+[2021.12.20-17.20.10:458][888]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.20.11:018][917]Cmd: DELETE
+[2021.12.20-17.20.11:018][917]Cmd: ACTOR DELETE
+[2021.12.20-17.20.11:022][917]LogEditorActor: Deleted Actor: BP_Board_C
+[2021.12.20-17.20.11:076][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.12.20-17.20.11:078][917]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2021.12.20-17.20.12:077][969]LogActorFactory: Actor Factory created SM_Hexagon
+[2021.12.20-17.20.12:903][ 18]LogActorFactory: Actor Factory created SM_Hexagon
+[2021.12.20-17.20.13:241][ 33]Cmd: DELETE
+[2021.12.20-17.20.13:241][ 33]Cmd: ACTOR DELETE
+[2021.12.20-17.20.13:244][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.20-17.20.13:301][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.12.20-17.20.13:303][ 33]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.12.20-17.20.15:565][160]Cmd: DELETE
+[2021.12.20-17.20.15:566][160]Cmd: ACTOR DELETE
+[2021.12.20-17.20.15:569][160]LogEditorActor: Deleted Actor: BP_Tile_C
+[2021.12.20-17.20.15:629][160]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.12.20-17.20.15:631][160]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.12.20-17.20.24:426][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.20.24:448][601]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_BoardB82FBC014DDECF9A01FBC8B8EE95B809.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.20.24:467][601]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.20.24:467][601]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.20.25:581][667]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.20.25:716][667]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2021.12.20-17.20.26:039][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.20.26:061][680]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board8F8B79FC4B38609BAEEE7CB44FBCABA4.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.20.26:080][680]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.20.26:080][680]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.20.48:344][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.20-17.21.21:626][605]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2021.12.20-17.21.21:631][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/Autosaves/Game/Maps/NewMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.20-17.21.21:653][605]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap_Auto5BFF3F0FB47A65B055D448DA5C2664143.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/Autosaves/Game/Maps/NewMap_Auto5.umap'
+[2021.12.20-17.21.21:655][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.085
+[2021.12.20-17.21.21:655][605]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2021.12.20-17.21.22:286][627]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.21.22:524][627]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.12.20-17.21.22:741][627]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.20-17.21.24:121][628]LogRenderer: Reallocating scene render targets to support 1144x704 Format 10 NumSamples 1 (Frame:1).
+[2021.12.20-17.21.38:922][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/SM_Hexagon" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset" SILENT=true
+[2021.12.20-17.21.38:936][475]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/SM_Hexagon7C42D1FF4AB7A082730B76A54A8F9819.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset'
+[2021.12.20-17.21.38:964][475]AssetCheck: New page: Asset Save: SM_Hexagon
+[2021.12.20-17.21.38:964][475]LogContentValidation: Display: Validating StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.21.40:098][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/SM_Hexagon" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset" SILENT=true
+[2021.12.20-17.21.40:102][535]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/SM_Hexagon12F765BA45481F49F2A3B48E5D6B7425.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset'
+[2021.12.20-17.21.40:125][535]AssetCheck: New page: Asset Save: SM_Hexagon
+[2021.12.20-17.21.40:125][535]LogContentValidation: Display: Validating StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.22.10:440][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/SM_Hexagon" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset" SILENT=true
+[2021.12.20-17.22.10:445][278]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/SM_Hexagon0B86A03C4734556F25788791C9389D12.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset'
+[2021.12.20-17.22.10:470][278]AssetCheck: New page: Asset Save: SM_Hexagon
+[2021.12.20-17.22.10:470][278]LogContentValidation: Display: Validating StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.22.12:752][358]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.22.13:907][397]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.22.13:999][399]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (NODE_AddStaticMeshComponent-1_5)
+[2021.12.20-17.22.17:405][521]Cmd: TRANSACTION UNDO
+[2021.12.20-17.22.17:405][521]LogEditorTransaction: Undo Rotate Components
+[2021.12.20-17.22.36:408][421]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.20-17.22.36:435][421]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.20-17.22.36:437][421]LogPlayLevel: [PlayLevel] Compiling BP_Board before play...
+[2021.12.20-17.22.36:762][421]LogUObjectHash: Compacting FUObjectHashTables data took  10.06ms
+[2021.12.20-17.22.36:766][421]LogPlayLevel: PlayLevel: Blueprint regeneration took 330 ms (1 blueprints)
+[2021.12.20-17.22.36:766][421]PIE: New page: PIE session: NewMap (20-12-2021 11:22:36)
+[2021.12.20-17.22.36:766][421]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2021.12.20-17.22.36:771][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004656s)
+[2021.12.20-17.22.36:772][421]LogAIModule: Creating AISystem for world NewMap
+[2021.12.20-17.22.36:773][421]LogPlayLevel: PIE: World Init took: (0.001812s)
+[2021.12.20-17.22.36:773][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.006674s)
+[2021.12.20-17.22.36:844][421]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2021.12.20-17.22.36:845][421]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.12.20-17.22.36:845][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.20-17.22.36:845][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.20-17.22.36:845][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.20-17.22.36:845][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.20-17.22.36:845][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.20-17.22.36:845][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.20-17.22.36:845][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.20-17.22.36:845][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.20-17.22.36:846][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.20-17.22.36:846][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.20-17.22.36:846][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.20-17.22.36:846][421]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.20-17.22.36:848][421]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.20-17.22.36:848][421]LogAudioMixer: Display: 1: FrontRight
+[2021.12.20-17.22.36:974][421]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.20-17.22.36:974][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.20-17.22.36:974][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.20-17.22.36:974][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.20-17.22.36:975][421]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.20-17.22.36:975][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.20-17.22.36:975][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.20-17.22.36:977][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.20-17.22.36:977][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.20-17.22.36:977][421]LogInit: FAudioDevice initialized.
+[2021.12.20-17.22.36:977][421]LogAudio: Display: Audio Device (ID: 36) registered with world 'NewMap'.
+[2021.12.20-17.22.37:026][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.20-17.22.37:026][421]LogLoad: Game class is 'GM_Snakes_C'
+[2021.12.20-17.22.37:029][421]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.12.20-14.22.37
+[2021.12.20-17.22.37:030][421]LogWorld: Bringing up level for play took: 0.002875
+[2021.12.20-17.22.37:030][421]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.12.20-17.22.37:032][421]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.20-17.22.37:040][421]PIE: Server logged in
+[2021.12.20-17.22.37:040][421]PIE: Play in editor total start time 0,622 seconds.
+[2021.12.20-17.22.38:270][466]LogSlate: Window 'SnakeGames Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.20-17.22.38:295][466]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2021.12.20-17.22.38:298][466]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-17.22.38:299][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-17.22.38:335][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.20-17.22.38:369][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-17.22.38:468][466]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.20-17.22.38:468][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.20-17.22.38:471][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.20-17.22.38:508][466]LogUObjectHash: Compacting FUObjectHashTables data took  11.10ms
+[2021.12.20-17.22.38:584][467]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.12.20-17.22.53:055][ 84]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.22.53:269][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2021.12.20-17.22.53:497][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.22.53:519][ 88]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board11040CA7495851EA45FB85AAF9590E48.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.22.53:543][ 88]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.22.53:543][ 88]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.23.06:386][615]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.23.09:104][687]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.23.09:373][687]LogUObjectHash: Compacting FUObjectHashTables data took  12.69ms
+[2021.12.20-17.23.17:279][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.23.17:313][990]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board1D1C7DA94BA524049E19B1968E3619F4.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.23.17:348][990]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.23.17:348][990]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.23.24:925][328]BlueprintLog: New page: Compile BP_Board
+[2021.12.20-17.23.25:171][328]LogUObjectHash: Compacting FUObjectHashTables data took   9.99ms
+[2021.12.20-17.23.25:519][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.23.25:545][336]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_BoardC65526DA4BB8F1E4ABAB77AF402E6D07.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.23.25:567][336]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.23.25:568][336]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.23.29:743][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/BP_Board" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset" SILENT=true
+[2021.12.20-17.23.29:774][539]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/BP_Board11485D0645F96CB6DE46AE95FC2D68D5.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/BP_Board.uasset'
+[2021.12.20-17.23.29:801][539]AssetCheck: New page: Asset Save: BP_Board
+[2021.12.20-17.23.29:801][539]LogContentValidation: Display: Validating Blueprint /Game/Table/BP_Board.BP_Board
+[2021.12.20-17.23.31:757][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.20-17.23.31:845][607]LogUObjectHash: Compacting FUObjectHashTables data took  11.97ms
+[2021.12.20-17.23.31:875][607]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMapEF9F63E642D4312F66CCC48E42761325.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap'
+[2021.12.20-17.23.31:898][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2021.12.20-17.23.31:927][607]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap_BuiltData325A6FCD4E4E9746D182AC9705DD5BB1.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset'
+[2021.12.20-17.23.31:963][607]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.20-17.23.31:963][607]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2021.12.20-17.23.31:963][607]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2021.12.20-17.24.07:549][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.20-17.24.08:544][ 59]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.20-17.24.09:042][ 82]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.24.16:506][390]Cmd: TRANSACTION UNDO
+[2021.12.20-17.24.16:506][390]LogEditorTransaction: Undo Edit Offset
+[2021.12.20-17.24.17:027][394]Cmd: TRANSACTION UNDO
+[2021.12.20-17.24.17:027][394]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.20-17.24.19:150][458]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.25.01:934][109]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.25.02:021][111]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (NODE_AddStaticMeshComponent-1_19)
+[2021.12.20-17.25.09:243][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.20-17.25.09:398][443]LogUObjectHash: Compacting FUObjectHashTables data took   8.62ms
+[2021.12.20-17.25.09:422][443]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap10B357DB4434C0112AE0D58A969A4676.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap'
+[2021.12.20-17.25.09:441][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2021.12.20-17.25.09:470][443]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap_BuiltDataBA2CD057458075CD0105B6B0388B6CD0.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset'
+[2021.12.20-17.25.09:500][443]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.20-17.25.09:500][443]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2021.12.20-17.25.09:500][443]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2021.12.20-17.25.12:897][600]LogEditorFactories: Performing atomic reimport of [D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx]
+[2021.12.20-17.25.12:955][600]LogFbx: Loading FBX Scene from D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx
+[2021.12.20-17.25.12:963][600]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.25.12:995][600]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.25.13:030][600]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.25.13:080][600]LogStaticMesh: Building static mesh SM_Hexagon...
+[2021.12.20-17.25.13:085][600]LogStaticMesh: Built static mesh [0.00s] /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.25.13:130][600]LogEditorFactories: -- imported successfully
+[2021.12.20-17.25.13:134][600]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.25.26:998][257]LogEditorFactories: Performing atomic reimport of [D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx]
+[2021.12.20-17.25.27:090][257]LogFbx: Loading FBX Scene from D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx
+[2021.12.20-17.25.27:109][257]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.25.27:152][257]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.25.27:198][257]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.25.27:251][257]LogStaticMesh: Building static mesh SM_Hexagon...
+[2021.12.20-17.25.27:262][257]LogStaticMesh: Built static mesh [0.01s] /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.25.27:308][257]LogEditorFactories: -- imported successfully
+[2021.12.20-17.25.27:316][257]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.25.32:267][454]LogEditorFactories: Performing atomic reimport of [D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx]
+[2021.12.20-17.25.32:361][454]LogFbx: Loading FBX Scene from D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx
+[2021.12.20-17.25.32:380][454]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.25.32:461][454]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.25.32:511][454]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.25.32:565][454]LogStaticMesh: Building static mesh SM_Hexagon...
+[2021.12.20-17.25.32:575][454]LogStaticMesh: Built static mesh [0.01s] /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.25.32:614][454]LogEditorFactories: -- imported successfully
+[2021.12.20-17.25.32:621][454]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.25.42:554][917]LogEditorFactories: Performing atomic reimport of [D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx]
+[2021.12.20-17.25.42:644][917]LogFbx: Loading FBX Scene from D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx
+[2021.12.20-17.25.42:659][917]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.25.42:694][917]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.25.42:745][917]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.25.42:819][917]LogStaticMesh: Building static mesh SM_Hexagon...
+[2021.12.20-17.25.42:833][917]LogStaticMesh: Built static mesh [0.01s] /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.25.42:887][917]LogEditorFactories: -- imported successfully
+[2021.12.20-17.25.42:898][917]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.25.46:266][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.20-17.25.46:357][  3]LogUObjectHash: Compacting FUObjectHashTables data took   9.30ms
+[2021.12.20-17.25.46:387][  3]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap5D382D384A3BD7476E714BBFA82A7935.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap'
+[2021.12.20-17.25.46:406][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2021.12.20-17.25.46:434][  3]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap_BuiltData6FA8FD814E5C5665B5EEB09555E36DD7.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset'
+[2021.12.20-17.25.46:463][  3]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.20-17.25.46:463][  3]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2021.12.20-17.25.46:463][  3]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2021.12.20-17.25.46:871][ 13]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (NODE_AddStaticMeshComponent-1_24)
+[2021.12.20-17.25.52:300][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/SM_Hexagon" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset" SILENT=true
+[2021.12.20-17.25.52:314][262]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/SM_Hexagon8E0FEDC5487D80D8B8B84CB5DBB1C347.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset'
+[2021.12.20-17.25.52:341][262]AssetCheck: New page: Asset Save: SM_Hexagon
+[2021.12.20-17.25.52:341][262]LogContentValidation: Display: Validating StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.25.53:113][299]LogEditorFactories: Performing atomic reimport of [D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx]
+[2021.12.20-17.25.53:194][299]LogFbx: Loading FBX Scene from D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx
+[2021.12.20-17.25.53:208][299]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.25.53:238][299]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.25.53:288][299]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.25.53:340][299]LogStaticMesh: Building static mesh SM_Hexagon...
+[2021.12.20-17.25.53:347][299]LogStaticMesh: Built static mesh [0.01s] /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.25.53:380][299]LogEditorFactories: -- imported successfully
+[2021.12.20-17.25.53:386][299]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.25.56:707][413]LogEditorFactories: Performing atomic reimport of [D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx]
+[2021.12.20-17.25.56:800][413]LogFbx: Loading FBX Scene from D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx
+[2021.12.20-17.25.56:823][413]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.25.56:860][413]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.25.56:926][413]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.25.56:978][413]LogStaticMesh: Building static mesh SM_Hexagon...
+[2021.12.20-17.25.56:987][413]LogStaticMesh: Built static mesh [0.01s] /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.25.57:031][413]LogEditorFactories: -- imported successfully
+[2021.12.20-17.25.57:039][413]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.25.59:938][491]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (NODE_AddStaticMeshComponent-1_24)
+[2021.12.20-17.26.09:896][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/SM_Hexagon" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset" SILENT=true
+[2021.12.20-17.26.09:914][978]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/SM_Hexagon9B3BD4EC468E8C09A7F3C0BFEF5E40C7.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset'
+[2021.12.20-17.26.09:946][978]AssetCheck: New page: Asset Save: SM_Hexagon
+[2021.12.20-17.26.09:946][978]LogContentValidation: Display: Validating StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.26.10:961][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/SM_Hexagon" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset" SILENT=true
+[2021.12.20-17.26.10:972][ 24]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/SM_Hexagon0B03964A4430C53C637CF7947C700951.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset'
+[2021.12.20-17.26.11:010][ 24]AssetCheck: New page: Asset Save: SM_Hexagon
+[2021.12.20-17.26.11:010][ 24]LogContentValidation: Display: Validating StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.26.13:856][123]LogEditorFactories: Performing atomic reimport of [D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx]
+[2021.12.20-17.26.13:944][123]LogFbx: Loading FBX Scene from D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx
+[2021.12.20-17.26.13:959][123]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.26.13:998][123]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.26.14:047][123]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.26.14:102][123]LogStaticMesh: Building static mesh SM_Hexagon...
+[2021.12.20-17.26.14:110][123]LogStaticMesh: Built static mesh [0.01s] /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.26.14:149][123]LogEditorFactories: -- imported successfully
+[2021.12.20-17.26.14:156][123]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.26.26:719][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/SM_Hexagon" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset" SILENT=true
+[2021.12.20-17.26.26:735][567]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/SM_Hexagon6515E61B4F66FAEA1EB8B7BEEE623665.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset'
+[2021.12.20-17.26.26:765][567]AssetCheck: New page: Asset Save: SM_Hexagon
+[2021.12.20-17.26.26:765][567]LogContentValidation: Display: Validating StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.26.28:002][612]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-17.26.28:002][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-17.26.30:008][677]LogEditorFactories: Performing atomic reimport of [D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx]
+[2021.12.20-17.26.30:110][677]LogFbx: Loading FBX Scene from D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx
+[2021.12.20-17.26.30:127][677]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.26.30:162][677]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.26.30:211][677]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.26.30:266][677]LogStaticMesh: Building static mesh SM_Hexagon...
+[2021.12.20-17.26.30:275][677]LogStaticMesh: Built static mesh [0.01s] /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.26.30:320][677]LogEditorFactories: -- imported successfully
+[2021.12.20-17.26.30:327][677]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.26.42:566][227]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (NODE_AddStaticMeshComponent-1_31)
+[2021.12.20-17.26.43:315][253]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (NODE_AddStaticMeshComponent-1_31)
+[2021.12.20-17.26.45:639][369]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (NODE_AddStaticMeshComponent-1_31)
+[2021.12.20-17.26.52:356][712]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.27.06:644][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Table/SM_Hexagon" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset" SILENT=true
+[2021.12.20-17.27.06:700][440]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/SM_Hexagon5B15C514426B2394788F9A9D64EFDC0D.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Table/SM_Hexagon.uasset'
+[2021.12.20-17.27.06:728][440]AssetCheck: New page: Asset Save: SM_Hexagon
+[2021.12.20-17.27.06:728][440]LogContentValidation: Display: Validating StaticMesh /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.27.07:046][452]LogEditorFactories: Performing atomic reimport of [D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx]
+[2021.12.20-17.27.07:120][452]LogFbx: Loading FBX Scene from D:/jesus/Descargas/hexagon-no-textures/source/untitled.fbx
+[2021.12.20-17.27.07:132][452]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.20-17.27.07:163][452]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.12.20-17.27.07:196][452]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.12.20-17.27.07:249][452]LogStaticMesh: Building static mesh SM_Hexagon...
+[2021.12.20-17.27.07:255][452]LogStaticMesh: Built static mesh [0.01s] /Game/Table/SM_Hexagon.SM_Hexagon
+[2021.12.20-17.27.07:287][452]LogEditorFactories: -- imported successfully
+[2021.12.20-17.27.07:292][452]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.20-17.27.26:684][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.20-17.27.27:474][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.27.40:078][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.20-17.27.40:193][568]LogUObjectHash: Compacting FUObjectHashTables data took   8.70ms
+[2021.12.20-17.27.40:220][568]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap165EAFE544EA147529858385C33B90CC.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap'
+[2021.12.20-17.27.40:237][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2021.12.20-17.27.40:305][568]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap_BuiltData2FF8860248099270C28805A15ADFDDE1.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset'
+[2021.12.20-17.27.40:339][568]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.20-17.27.40:339][568]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2021.12.20-17.27.40:340][568]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2021.12.20-17.27.40:665][576]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.20-17.27.43:605][675]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.27.50:350][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.20-17.27.50:438][904]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2021.12.20-17.27.50:466][904]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMapA66487ED4AA8EE3BE6F48C8ADF58BF49.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap.umap'
+[2021.12.20-17.27.50:485][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2021.12.20-17.27.50:514][904]LogSavePackage: Moving '../../../../../jesus/Projects/SnakeGames/SnakeGames/Saved/NewMap_BuiltDataCAC4B67244BBB4C699AFEF8BFAB91D87.tmp' to '../../../../../jesus/Projects/SnakeGames/SnakeGames/Content/Maps/NewMap_BuiltData.uasset'
+[2021.12.20-17.27.50:545][904]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.20-17.27.50:545][904]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2021.12.20-17.27.50:546][904]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2021.12.20-17.27.51:321][928]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.27.52:197][957]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.20-17.27.52:620][968]LogEditorViewport: Clicking on Actor (LMB): BP_Board_C (BP_Board)
+[2021.12.20-17.27.54:111][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
